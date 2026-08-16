@@ -1,0 +1,20 @@
+{
+    
+"urlPath": {
+    "todoURL": "https://fpsau.com/Training-pw-r1/workshop-1/todo/"
+           },
+
+"task": {
+    "taskAdded": "Learn Playwright",
+    "taskDeleted": "Buy coffee beans",
+    "taskCompleted": "Buy milk"
+             },
+
+"validText": {
+    "addTask": "5 items — 1 completed",
+    "alert": "Invalid username or password",
+    "accept": "I accept the privacy policy"
+    }
+
+
+}

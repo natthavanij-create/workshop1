@@ -1,0 +1,23 @@
+{
+
+"validUser": {
+"username": "fame",
+"password": "s3cret"
+},
+
+"invalidUser": {
+"username": "admin",
+"password": "password"
+},
+
+"validText": {
+"success": "You have successfully signed in.",
+"alert": "Invalid username or password"
+    },
+
+"urlPath": {
+    "loginURL": "https://fpsau.com/Training-pw-r1/workshop-1/login/",
+    "dashboardURL": "https://fpsau.com/Training-pw-r1/workshop-1/dashboard/"
+}
+
+}
